@@ -1,4 +1,4 @@
-# 🚛 Talk2me App
+# Talk2me App
 
 Eine moderne Alternative zum CB-Funk für LKW-Fahrer. Scanne QR-Codes und chatte mit anderen Fahrern in Echtzeit!
 
