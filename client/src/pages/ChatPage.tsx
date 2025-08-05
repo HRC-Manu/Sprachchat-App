@@ -37,6 +37,19 @@ const ChatPage: React.FC = () => {
     }
 
     // Raum-Informationen abrufen
+    const fetchRoomInfo = async () => {
+      try {
+        const response = await fetch(`/api/room/${roomId}`);
+        if (!response.ok) {
+          throw new Error('Chat-Raum nicht gefunden');
+        }
+        const data = await response.json();
+        setRoomInfo(data);
+      } catch (err) {
+        setError('Chat-Raum nicht gefunden');
+      }
+    };
+
     fetchRoomInfo();
 
     // Socket.io Verbindung herstellen
@@ -74,18 +87,7 @@ const ChatPage: React.FC = () => {
     scrollToBottom();
   }, [messages]);
 
-  const fetchRoomInfo = async () => {
-    try {
-      const response = await fetch(`/api/room/${roomId}`);
-      if (!response.ok) {
-        throw new Error('Chat-Raum nicht gefunden');
-      }
-      const data = await response.json();
-      setRoomInfo(data);
-    } catch (err) {
-      setError('Chat-Raum nicht gefunden');
-    }
-  };
+
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
