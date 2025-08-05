@@ -8,20 +8,5 @@
         "distDir": "build"
       }
     }
-  ],
-  "routes": [
-    {
-      "src": "/static/(.*)",
-      "dest": "/static/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
-  ],
-  "functions": {
-    "api/debug.js": {
-      "maxDuration": 10
-    }
-  }
+  ]
 } 
