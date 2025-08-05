@@ -1,13 +1,13 @@
 # 🤝 Mitentwickeln
 
-Vielen Dank für dein Interesse an der LKW-Chat App! Wir freuen uns über jeden Beitrag.
+Vielen Dank für dein Interesse an der Talk2me App! Wir freuen uns über jeden Beitrag.
 
 ## 🚀 Erste Schritte
 
 1. **Fork das Repository**
    ```bash
-   git clone https://github.com/dein-username/lkw-chat-app.git
-   cd lkw-chat-app
+   git clone https://github.com/dein-username/talk2me-app.git
+cd talk2me-app
    ```
 
 2. **Installiere Abhängigkeiten**
@@ -124,4 +124,4 @@ Hast du Fragen? Erstelle ein Issue oder kontaktiere uns!
 
 ---
 
-**Danke für deinen Beitrag zur LKW-Chat Community! 🚛💬** 
+**Danke für deinen Beitrag zur Talk2me Community! 🚛💬** 

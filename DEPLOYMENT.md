@@ -1,6 +1,6 @@
 # 🚀 Deployment Guide
 
-Hier findest du Anleitungen zum Deployment der LKW-Chat App auf verschiedenen Plattformen.
+Hier findest du Anleitungen zum Deployment der Talk2me App auf verschiedenen Plattformen.
 
 ## 📋 Voraussetzungen
 
@@ -118,11 +118,11 @@ brew install heroku/brew/heroku
 heroku login
 
 # App erstellen
-heroku create deine-lkw-chat-app
+heroku create deine-talk2me-app
 
 # Umgebungsvariablen setzen
 heroku config:set NODE_ENV=production
-heroku config:set CLIENT_URL=https://deine-lkw-chat-app.herokuapp.com
+heroku config:set CLIENT_URL=https://deine-talk2me-app.herokuapp.com
 
 # Deploy
 git push heroku main

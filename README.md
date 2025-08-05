@@ -1,4 +1,4 @@
-# 🚛 LKW-Chat App
+# 🚛 Talk2me App
 
 Eine moderne Alternative zum CB-Funk für LKW-Fahrer. Scanne QR-Codes und chatte mit anderen Fahrern in Echtzeit!
 
@@ -20,8 +20,8 @@ Eine moderne Alternative zum CB-Funk für LKW-Fahrer. Scanne QR-Codes und chatte
 
 ```bash
 # Repository klonen
-git clone https://github.com/dein-username/lkw-chat-app.git
-cd lkw-chat-app
+git clone https://github.com/dein-username/talk2me-app.git
+cd talk2me-app
 
 # Abhängigkeiten installieren
 npm install
@@ -97,7 +97,7 @@ Dieses Projekt steht unter der MIT-Lizenz. Siehe [LICENSE](LICENSE) für Details
 ## 🙏 Danksagungen
 
 - Inspiriert von der CB-Funk Community
-- Built with ❤️ für LKW-Fahrer weltweit
+- Built with ❤️ für Talk2me Community weltweit
 
 ## 📞 Support
 

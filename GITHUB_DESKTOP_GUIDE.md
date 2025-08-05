@@ -5,7 +5,7 @@
 ✅ **Abgeschlossen:**
 - Git Repository initialisiert
 - Alle Dateien committed
-- App installiert und getestet
+- Talk2me App installiert und getestet
 
 ## 🔄 GitHub Desktop Deployment
 
@@ -19,7 +19,7 @@
 
 ### 3. Auf GitHub veröffentlichen
 - Klicke auf "Publish repository" (oben rechts)
-- Wähle einen Repository-Namen: `lkw-chat-app`
+- Wähle einen Repository-Namen: `talk2me-app`
 - Beschreibung: "Moderne Alternative zum CB-Funk für LKW-Fahrer"
 - **Wichtig:** Aktiviere "Keep this code private" NICHT (sollte öffentlich sein)
 - Klicke auf "Publish Repository"
@@ -39,7 +39,7 @@ Nach dem Veröffentlichen:
 1. Gehe zu [vercel.com](https://vercel.com)
 2. Melde dich mit GitHub an
 3. Klicke "New Project"
-4. Wähle dein `lkw-chat-app` Repository
+4. Wähle dein `talk2me-app` Repository
 5. Klicke "Deploy"
 
 ### Option 2: Netlify
@@ -88,4 +88,4 @@ Bei Problemen:
 
 ---
 
-**Viel Erfolg mit deiner LKW-Chat App! 🚛💬** 
+**Viel Erfolg mit deiner Talk2me App! 🚛💬** 

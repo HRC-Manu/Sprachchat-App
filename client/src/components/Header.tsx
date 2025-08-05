@@ -10,7 +10,7 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-2">
             <span className="text-3xl">🚛</span>
-            <h1 className="text-2xl font-bold text-truck-blue">LKW-Chat</h1>
+            <h1 className="text-2xl font-bold text-truck-blue">Talk2me</h1>
           </Link>
           
           <nav className="hidden md:flex space-x-6">

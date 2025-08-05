@@ -27,7 +27,7 @@ const activeUsers = new Map();
 
 // API Routes
 app.get('/api/health', (req, res) => {
-  res.json({ status: 'OK', message: 'LKW-Chat Server läuft!' });
+  res.json({ status: 'OK', message: 'Talk2me Server läuft!' });
 });
 
 // QR-Code Generator Endpoint
@@ -210,10 +210,10 @@ setInterval(() => {
   }
 }, 60 * 60 * 1000); // Jede Stunde prüfen
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 
 server.listen(PORT, () => {
-  console.log(`🚛 LKW-Chat Server läuft auf Port ${PORT}`);
+  console.log(`🚛 Talk2me Server läuft auf Port ${PORT}`);
   console.log(`📱 Client URL: ${process.env.CLIENT_URL || 'http://localhost:3000'}`);
   console.log(`🔗 Server URL: http://localhost:${PORT}`);
 }); 

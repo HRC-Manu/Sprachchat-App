@@ -9,7 +9,7 @@ const HomePage: React.FC = () => {
         <div className="mb-6">
           <span className="text-6xl mb-4 block">🚛</span>
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
-            LKW-Chat App
+            Talk2me App
           </h1>
           <p className="text-xl md:text-2xl text-blue-100 mb-8">
             Die moderne Alternative zum CB-Funk

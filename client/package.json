@@ -1,5 +1,5 @@
 {
-  "name": "lkw-chat-client",
+  "name": "talk2me-client",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
@@ -43,5 +43,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:5000"
+  "proxy": "http://localhost:5001"
 } 

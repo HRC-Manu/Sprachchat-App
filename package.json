@@ -1,5 +1,5 @@
 {
-  "name": "lkw-chat-app",
+  "name": "talk2me-app",
   "version": "1.0.0",
   "description": "Eine moderne Alternative zum CB-Funk für LKW-Fahrer",
   "main": "server/index.js",
@@ -43,10 +43,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dein-username/lkw-chat-app.git"
+    "url": "https://github.com/dein-username/talk2me-app.git"
   },
   "bugs": {
-    "url": "https://github.com/dein-username/lkw-chat-app/issues"
+    "url": "https://github.com/dein-username/talk2me-app/issues"
   },
-  "homepage": "https://github.com/dein-username/lkw-chat-app#readme"
+      "homepage": "https://github.com/dein-username/talk2me-app#readme"
 } 
