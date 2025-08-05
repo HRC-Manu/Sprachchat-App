@@ -105,4 +105,4 @@ Hast du Fragen oder Probleme? Erstelle ein Issue auf GitHub oder kontaktiere uns
 
 ---
 
-**Fahre sicher und chatte verantwortungsvoll! 🚛💬** 
+**Fahre sicher und chatte verantwortungsvoll! 🚐💬** 

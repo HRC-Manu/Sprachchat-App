@@ -88,4 +88,4 @@ Bei Problemen:
 
 ---
 
-**Viel Erfolg mit deiner Talk2me App! 🚛💬** 
+**Viel Erfolg mit deiner Talk2me App! 🚐💬** 

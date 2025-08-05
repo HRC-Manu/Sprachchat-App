@@ -124,4 +124,4 @@ Hast du Fragen? Erstelle ein Issue oder kontaktiere uns!
 
 ---
 
-**Danke für deinen Beitrag zur Talk2me Community! 🚛💬** 
+**Danke für deinen Beitrag zur Talk2me Community! 🚐💬** 

@@ -7,7 +7,7 @@ const HomePage: React.FC = () => {
       {/* Hero Section */}
       <div className="text-center mb-12">
         <div className="mb-6">
-          <span className="text-6xl mb-4 block">🚛</span>
+          <span className="text-6xl mb-4 block">🚐</span>
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
             Talk2me App
           </h1>

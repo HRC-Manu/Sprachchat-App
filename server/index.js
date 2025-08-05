@@ -213,7 +213,7 @@ setInterval(() => {
 const PORT = process.env.PORT || 5001;
 
 server.listen(PORT, () => {
-  console.log(`🚛 Talk2me Server läuft auf Port ${PORT}`);
+  console.log(`🚐 Talk2me Server läuft auf Port ${PORT}`);
   console.log(`📱 Client URL: ${process.env.CLIENT_URL || 'http://localhost:3000'}`);
   console.log(`🔗 Server URL: http://localhost:${PORT}`);
 }); 
